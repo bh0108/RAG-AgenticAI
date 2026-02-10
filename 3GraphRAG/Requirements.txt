@@ -1,0 +1,4 @@
+networkx
+langchain
+langchain-ollama
+python-dotenv
