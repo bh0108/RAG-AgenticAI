@@ -1,0 +1,25 @@
+Company Policy Manual
+
+1. Work‑From‑Home (WFH) Policy
+All employees are eligible for a hybrid work‑from‑home schedule.
+Employees must be physically present in the office on Tuesdays, Wednesdays, and Thursdays.
+Mondays and Fridays are optional remote days.
+Employees must ensure availability during core hours: 9 AM to 4 PM EST.
+
+2. Paid Time Off (PTO) Policy
+Full‑time employees receive 20 days of Paid Time Off (PTO) per year.
+PTO accrues monthly and unused PTO rolls over up to a maximum of 5 days.
+Employees must submit PTO requests at least 7 days in advance unless it is an emergency.
+
+3. Technology Stack
+The official backend programming language is Python.
+The official frontend framework is React.
+For mobile development, the company uses React Native.
+All production services must follow internal security and compliance guidelines.
+
+4. Security & Compliance
+Employees must complete annual security training.
+All code must pass automated security scans before deployment.
+Sensitive data must be encrypted at rest and in transit.
+
+End of Document.
