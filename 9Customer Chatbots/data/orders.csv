@@ -1,0 +1,5 @@
+order_id,customer_id,status,created_at,total_amount,shipping_address
+1001,501,Shipped,2025-01-10,79.99,"123 Main St, Jersey City, NJ"
+1002,501,Processing,2025-01-15,24.50,"123 Main St, Jersey City, NJ"
+1003,502,Delivered,2025-01-05,199.00,"45 Park Ave, New York, NY"
+

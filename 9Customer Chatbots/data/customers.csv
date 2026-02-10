@@ -1,0 +1,5 @@
+customer_id,name,email,tier,risk_flag
+501,Alex Johnson,alex@example.com,gold,false
+502,Maria Lopez,maria@example.com,standard,false
+503,John Doe,john@example.com,standard,true
+
