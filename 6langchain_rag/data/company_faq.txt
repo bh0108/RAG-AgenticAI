@@ -1,0 +1,12 @@
+Acme Analytics provides data analytics and business intelligence solutions.
+
+Products:
+1. Acme Dashboard
+2. Acme Reports
+3. Acme Insights
+
+Support hours: Monday to Friday, 9 AM to 6 PM Eastern Time.
+
+Integrations: PostgreSQL, MySQL, Snowflake, BigQuery.
+
+Enterprise customers receive a dedicated account manager.
