@@ -1,0 +1,32 @@
+Acme Corporation – Product Onboarding Guide (Internal)
+
+1. Overview
+This guide explains the onboarding workflow for new customers using the Acme Analytics Platform. It is intended for support engineers, onboarding specialists, and customer success managers.
+
+2. Customer Kickoff
+Within 48 hours of contract signature, the onboarding specialist must schedule a kickoff call. The call covers project goals, data sources, integration timelines, and success metrics.
+
+3. Data Integration Steps
+Step 1: Collect API keys or SFTP credentials from the customer.
+Step 2: Validate data formats and confirm schema compatibility.
+Step 3: Configure ingestion pipelines in the Acme Integration Console.
+Step 4: Run a test ingestion job and verify record counts.
+
+4. User Provisioning
+Customer administrators receive access to the Admin Portal. They can create user accounts, assign roles, and configure multi‑factor authentication. Default roles include Viewer, Analyst, and Admin.
+
+5. Training and Enablement
+Acme provides three training modules:
+- Platform Overview (45 minutes)
+- Dashboard Creation (60 minutes)
+- Data Quality Monitoring (30 minutes)
+
+6. Go‑Live Checklist
+Before marking a customer as live, confirm:
+- All ingestion pipelines are running without errors.
+- At least one dashboard is published.
+- Customer admins have completed training.
+- A support channel has been created in Teams.
+
+7. Post‑Launch Support
+For the first 30 days, customers receive priority support with a 4‑hour response SLA.
