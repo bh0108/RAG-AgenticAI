@@ -1,0 +1,8 @@
+pypdf
+pdfplumber
+transformers
+torch
+sentencepiece
+nltk
+tqdm
+python-dotenv
